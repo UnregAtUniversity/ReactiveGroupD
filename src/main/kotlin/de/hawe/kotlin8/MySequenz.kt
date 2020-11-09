@@ -1,5 +1,7 @@
 package de.hawe.kotlin8
 
+//https://kotlinlang.org/docs/reference/sequences.html
+
 class MySequenz{
     var name = "Anne"
     fun sequenzenTest() {
